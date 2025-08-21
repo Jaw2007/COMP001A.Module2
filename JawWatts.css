@@ -3,12 +3,12 @@ body {
     font-family: sans-serif;
     padding: 1em;
     max-width: 600px;
+    text-align:center ;
 }
 
 h1 {    
     font-size: 180%;
     color: #0033cc;
-    text-align:center ;
 }
 
 h2 {
