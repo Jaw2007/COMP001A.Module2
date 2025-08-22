@@ -1,21 +1,25 @@
+/*for the body I used green for the background color and changed the font*/
 body {
     background-color: rgb(123, 196, 56);
     font-family: sans-serif;
     padding: 1em;
     max-width: 900px;
 }
-
+/*Here for this set of text I made the size bigger because this is the header and the color is blue*/
 h1 {    
     text-align:center; 
     font-size: 700%;
     color: #0033cc;
 }
-
+/*This set of text is similar but now I added an underline for the sections for each subject and the text is way smaller*/
 h2 {
     font-size: 200%;
     border-bottom: 3px solid #0033cc;
 }
-
+/*this is used for the projects area I made the font a little bigger then the previous one above*/
+    h3 {
+    font-size: 240%;
+    }
 ul {
     list-style-type: disk;
 }
